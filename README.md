@@ -54,7 +54,7 @@ Os protótipos de referência estão disponíveis no diretório `prototipos/`:
 ---
 
 ### Estilização CSS3 Mobile First
-- [ ] Criar arquivo `spotify.css` (recomendado: criar pasta `css/` e salvar como `css/style.css`)
+- [ ] Criar arquivo `spotify.css` (recomendado: criar pasta `css/` e salvar como `css/spotify.css`)
 - [ ] Configurar reset/normalize CSS:
   - [ ] Remover margens e paddings padrão
   - [ ] Definir box-sizing como border-box
@@ -100,5 +100,14 @@ Os protótipos de referência estão disponíveis no diretório `prototipos/`:
 - [ ] Otimizar performance:
   - [ ] Comprimir imagens se necessário
   - [ ] Remover código CSS não utilizado
+     
+---
+
+### Observações
+
+- as imagens e artistas são da conta real do professor
+- pode utilizar as mesmas imagens do protótipo ou pegar suas próprias imagens
+- as imagens devem ser colocadas em uma pasta, sugestão `imagens`
+- deve ter mais que 3 itens em cada _carousel_
 - [ ] Documentar decisões técnicas (se necessário)
 - [ ] Fazer commit final do projeto
